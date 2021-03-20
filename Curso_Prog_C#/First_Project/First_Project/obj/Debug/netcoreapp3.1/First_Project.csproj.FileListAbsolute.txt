@@ -1,0 +1,13 @@
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\bin\Debug\netcoreapp3.1\First_Project.exe
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\bin\Debug\netcoreapp3.1\First_Project.deps.json
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\bin\Debug\netcoreapp3.1\First_Project.runtimeconfig.json
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\bin\Debug\netcoreapp3.1\First_Project.runtimeconfig.dev.json
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\bin\Debug\netcoreapp3.1\First_Project.dll
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\bin\Debug\netcoreapp3.1\First_Project.pdb
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.csprojAssemblyReference.cache
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.AssemblyInfoInputs.cache
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.AssemblyInfo.cs
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.csproj.CoreCompileInputs.cache
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.dll
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.pdb
+C:\Workspace\Curso_Prog_C#\First_Project\First_Project\obj\Debug\netcoreapp3.1\First_Project.genruntimeconfig.cache
